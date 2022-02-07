@@ -2,6 +2,8 @@
 
 Um Webapp de chat desenvolvido em parceria com a Alura, usando todo o poder do React e Next.Js.
 
+Para o Backend foi utilizado o Baas Supabase.
+
 ## Imagens do App
 
 </br>
